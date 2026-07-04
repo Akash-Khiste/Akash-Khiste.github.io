@@ -2,7 +2,7 @@ import "./globals.css";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://akash-khiste.github.io/AkashKhiste.github.io"),
+  metadataBase: new URL("https://akash-khiste.github.io"),
   title: "Akash Khiste | Senior Software Engineer",
   description:
     "Senior Software Engineer with 8+ years of experience building enterprise-scale web applications, internal platforms, and full stack systems.",
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     title: "Akash Khiste | Senior Software Engineer",
     description:
       "Enterprise-scale web applications, internal platforms, full stack systems, frontend architecture, and technical delivery leadership.",
-    url: "https://akash-khiste.github.io/AkashKhiste.github.io",
+    url: "https://akash-khiste.github.io",
     siteName: "Akash Khiste Portfolio",
     type: "website",
   },
