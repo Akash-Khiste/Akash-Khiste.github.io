@@ -487,7 +487,7 @@ export default function PortfolioPage() {
               Contact
               </p>
               <h2 className="mt-4 max-w-[900px] text-[clamp(2rem,5vw,4.5rem)] font-bold leading-[1.05] tracking-[-0.04em]">
-                Open to senior engineering roles where complex systems need clearer product experiences.
+                Open to engineering roles where complex systems need clearer product experiences.
               </h2>
               <p className="mt-6 max-w-[720px] text-base leading-[1.7] text-[#d8d0c0] sm:text-lg">
                 I am interested in roles that combine frontend architecture, full stack platform
